@@ -1,0 +1,38 @@
+# =====================
+# IntelliJ IDEA
+# =====================
+.idea/
+*.iml
+out/
+.kotlin/
+
+# =====================
+# Eclipse
+# =====================
+.classpath
+.project
+.settings/
+.apt_generated
+.factorypath
+.springBeans
+.sts4-cache
+bin/
+
+# =====================
+# NetBeans
+# =====================
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# =====================
+# VS Code
+# =====================
+.vscode/
+
+# =====================
+# Mac OS
+# =====================
+.DS_Store
