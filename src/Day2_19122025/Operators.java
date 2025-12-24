@@ -1,3 +1,5 @@
+package Day2_19122025;
+
 public class Operators {
     public static void main(String[] args) {
 
@@ -30,7 +32,7 @@ public class Operators {
         System.out.println("After += "+ (d));
         System.out.println("After += "+ (n));
 
-        // Relational Operators
+        // Relational Day2_19122025.Operators
         System.out.println("Relational Operation");
         int num1 = 10, num2 = 15, num3 = 12;
         System.out.println(" a > b : "+ (num1 > num2));
@@ -40,7 +42,7 @@ public class Operators {
         System.out.println(" a == a : "+ (num2 == num2));
         System.out.println(" a != a : "+ (num2 != num2));
 
-        // Logical Operators
+        // Logical Day2_19122025.Operators
         System.out.println("Logical Operation");
         boolean b1 = true;
         boolean b2 = false;
